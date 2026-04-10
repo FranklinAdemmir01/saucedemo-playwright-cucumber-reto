@@ -1,0 +1,247 @@
+﻿
+> saucedemo-playwright-cucumber@1.0.0 test
+> cucumber-js
+
+node.exe : Cannot use 'progress-bar' formatter for output to 'stdout' as not a 
+TTY. Switching to 'progress' formatter.
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Cannot use 'pro...ess' formatter. 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:43:55"}
+[32minfo[39m: Test Suite Execution Started {"timestamp":"2026-04-10 07:43:55"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Test Suite Execution Started {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Test Suite Execution Started {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Cleaned 4 old files from videos {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Report directories initialized {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ---------------------------------------- {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Scenario: Agregar un solo producto al carrito de compras {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ---------------------------------------- {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Initializing browser: chromium {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Cleaned 2 old files from videos {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Cleaned 2 old files from videos {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Report directories initialized {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Report directories initialized {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ---------------------------------------- {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Scenario: Ver el contenido del carrito de compras {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ---------------------------------------- {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Initializing browser: chromium {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ---------------------------------------- {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Scenario: Completar el proceso de checkout exitosamente {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ---------------------------------------- {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Initializing browser: chromium {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Test Suite Execution Started {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Report directories initialized {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ---------------------------------------- {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Scenario: Inicio de sesi├│n exitoso con credenciales v├ílidas de usuario est├índar {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ---------------------------------------- {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Initializing browser: chromium {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Test Suite Execution Started {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Report directories initialized {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ---------------------------------------- {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Scenario: Intento de inicio de sesi├│n fallido con usuario bloqueado {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: ---------------------------------------- {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Initializing browser: chromium {"timestamp":"2026-04-10 07:43:56"}
+[32minfo[39m: Browser initialized successfully {"timestamp":"2026-04-10 07:44:03"}
+[32minfo[39m: Scenario setup completed {"timestamp":"2026-04-10 07:44:03"}
+[32m.[39m[33mU[39m[33mU[39m[33mU[39m[36m-[39m[36m-[39m[32minfo[39m: Browser initialized successfully {"timestamp":"2026-04-10 07:44:03"}
+[32minfo[39m: Scenario setup completed {"timestamp":"2026-04-10 07:44:03"}
+[32m.[39m[33mU[39m[33mU[39m[33mU[39m[33mU[39m[36m-[39m[36m-[39m[36m-[39m[32minfo[39m: Browser initialized successfully {"timestamp":"2026-04-10 07:44:04"}
+[32minfo[39m: Scenario setup completed {"timestamp":"2026-04-10 07:44:04"}
+[32m.[39m[32minfo[39m: Step: Navigate to login page {"timestamp":"2026-04-10 07:44:04"}
+[32minfo[39m: Navigating to login page {"timestamp":"2026-04-10 07:44:04"}
+[32minfo[39m: Navigating to: https://www.saucedemo.com {"timestamp":"2026-04-10 07:44:04"}
+[32minfo[39m: Browser initialized successfully {"timestamp":"2026-04-10 07:44:05"}
+[32minfo[39m: Scenario setup completed {"timestamp":"2026-04-10 07:44:05"}
+[32m.[39m[32minfo[39m: Step: Navigate to login page {"timestamp":"2026-04-10 07:44:05"}
+[32minfo[39m: Navigating to login page {"timestamp":"2026-04-10 07:44:05"}
+[32minfo[39m: Navigating to: https://www.saucedemo.com {"timestamp":"2026-04-10 07:44:05"}
+[32minfo[39m: Browser initialized successfully {"timestamp":"2026-04-10 07:44:05"}
+[32minfo[39m: Scenario setup completed {"timestamp":"2026-04-10 07:44:05"}
+[32m.[39m[33mU[39m[33mU[39m[33mU[39m[36m-[39m[36m-[39m[36m-[39m[36m-[39m[36m-[39m[36m-[39m[36m-[39m[32m.[39m[32minfo[39m: Step: Enter credentials - Username: standard_user {"timestamp":"2026-04-10 07:44:06"}
+[32minfo[39m: Entering username: standard_user {"timestamp":"2026-04-10 07:44:06"}
+[32minfo[39m: Entering password {"timestamp":"2026-04-10 07:44:06"}
+[32m.[39m[32minfo[39m: Step: Click login button {"timestamp":"2026-04-10 07:44:06"}
+[32minfo[39m: Clicking login button {"timestamp":"2026-04-10 07:44:06"}
+[32m.[39m[32m.[39m[32minfo[39m: Step: Verify redirect to inventory page {"timestamp":"2026-04-10 07:44:07"}
+[32minfo[39m: Step: Enter credentials - Username: locked_out_user {"timestamp":"2026-04-10 07:44:07"}
+[32minfo[39m: Entering username: locked_out_user {"timestamp":"2026-04-10 07:44:07"}
+[32minfo[39m: Inventory page loaded successfully {"timestamp":"2026-04-10 07:44:07"}
+[32m.[39m[32minfo[39m: Step: Verify products are displayed {"timestamp":"2026-04-10 07:44:07"}
+[32minfo[39m: Entering password {"timestamp":"2026-04-10 07:44:07"}
+[32m.[39m[32minfo[39m: Γ£ô Scenario PASSED: Inicio de sesi├│n exitoso con credenciales v├ílidas de usuario est├índar (3751ms) {"timestamp":"2026-04-10 07:44:07"}
+[32m.[39m[32minfo[39m: Step: Click login button {"timestamp":"2026-04-10 07:44:07"}
+[32minfo[39m: Clicking login button {"timestamp":"2026-04-10 07:44:07"}
+[32m.[39m[32minfo[39m: Step: Verify error message is displayed {"timestamp":"2026-04-10 07:44:08"}
+[32m.[39m[32minfo[39m: Step: Verify error message contains: Epic sadface: Sorry, this user has been locked out. {"timestamp":"2026-04-10 07:44:08"}
+[32minfo[39m: Getting error message {"timestamp":"2026-04-10 07:44:08"}
+[32m.[39m[32minfo[39m: Γ£ô Scenario PASSED: Intento de inicio de sesi├│n fallido con usuario bloqueado (3261ms) {"timestamp":"2026-04-10 07:44:08"}
+[32minfo[39m: Browser cleanup completed {"timestamp":"2026-04-10 07:44:15"}
+[32minfo[39m: Browser cleanup completed {"timestamp":"2026-04-10 07:44:15"}
+[32minfo[39m: Browser cleanup completed {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: Browser cleanup completed {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: Browser cleanup completed {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: Video attached to report: C:\Users\brayan.donayre\saucedemo-playwright-cucumber\reports\videos\page@abaf76d577e5248c00bf8a6c8c705f47.webm {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: Scenario cleanup completed {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: ----------------------------------------
+ {"timestamp":"2026-04-10 07:44:16"}
+[32m.[39m[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: Test Suite Execution Completed {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: Video attached to report: C:\Users\brayan.donayre\saucedemo-playwright-cucumber\reports\videos\page@f9fbf3b4dbbed8815876e98ed5ee9056.webm {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: Scenario cleanup completed {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: ----------------------------------------
+ {"timestamp":"2026-04-10 07:44:16"}
+[32m.[39m[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: Test Suite Execution Completed {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:44:16"}
+[32minfo[39m: Video attached to report: C:\Users\brayan.donayre\saucedemo-playwright-cucumber\reports\videos\page@5ab0c05e110cf35785d30ce298c0bf03.webm {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: Scenario cleanup completed {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: ----------------------------------------
+ {"timestamp":"2026-04-10 07:44:17"}
+[32m.[39m[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: Test Suite Execution Completed {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: Video attached to report: C:\Users\brayan.donayre\saucedemo-playwright-cucumber\reports\videos\page@de3be0e68aa1b649d3fb4f1cd0690a49.webm {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: Scenario cleanup completed {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: ----------------------------------------
+ {"timestamp":"2026-04-10 07:44:17"}
+[32m.[39m[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: Test Suite Execution Completed {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: Video attached to report: C:\Users\brayan.donayre\saucedemo-playwright-cucumber\reports\videos\page@7640f4d6341cb6f1e286cb410d7b6cde.webm {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: Scenario cleanup completed {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: ----------------------------------------
+ {"timestamp":"2026-04-10 07:44:17"}
+[32m.[39m[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: Test Suite Execution Completed {"timestamp":"2026-04-10 07:44:17"}
+[32minfo[39m: ======================================== {"timestamp":"2026-04-10 07:44:17"}
+
+
+Failures:
+
+1) Scenario: Agregar un solo producto al carrito de compras # [90msrc\features\cart.feature:13[39m
+   [32mΓêÜ Before[39m # [90msrc\hooks\hooks.ts:75[39m
+   [33m? Dado que el usuario ha iniciado sesi├│n con credenciales de usuario est├índar[39m
+       [33mUndefined. Implement with the following snippet:[39m
+       [33m[39m
+       [33m  Given('que el usuario ha iniciado sesi├│n con credenciales de usuario est├índar', async function () {[39m
+       [33m    // Write code here that turns the phrase above into concrete actions[39m
+       [33m    return 'pending';[39m
+       [33m  });[39m
+       [33m[39m
+   [33m? Y el usuario est├í en la p├ígina de inventario[39m
+       [33mUndefined. Implement with the following snippet:[39m
+       [33m[39m
+       [33m  Given('el usuario est├í en la p├ígina de inventario', async function () {[39m
+       [33m    // Write code here that turns the phrase above into concrete actions[39m
+       [33m    return 'pending';[39m
+       [33m  });[39m
+       [33m[39m
+   [33m? Cuando el usuario agrega "Sauce Labs Backpack" al carrito[39m
+       [33mUndefined. Implement with the following snippet:[39m
+       [33m[39m
+       [33m  When('el usuario agrega {string} al carrito', async function (string) {[39m
+       [33m    // Write code here that turns the phrase above into concrete actions[39m
+       [33m    return 'pending';[39m
+       [33m  });[39m
+       [33m[39m
+   [36m- Entonces la insignia del carrito de compras deber├¡a mostrar "1"[39m # [90msrc\steps\cart.steps.ts:48[39m
+   [36m- Y el producto "Sauce Labs Backpack" deber├¡a mostrarse como agregado[39m # [90msrc\steps\cart.steps.ts:57[39m
+   [32mΓêÜ After[39m # [90msrc\hooks\hooks.ts:95[39m
+       Attachment (video/webm)
+
+2) Scenario: Ver el contenido del carrito de compras # [90msrc\features\cart.feature:19[39m
+   [32mΓêÜ Before[39m # [90msrc\hooks\hooks.ts:75[39m
+   [33m? Dado que el usuario ha iniciado sesi├│n con credenciales de usuario est├índar[39m
+       [33mUndefined. Implement with the following snippet:[39m
+       [33m[39m
+       [33m  Given('que el usuario ha iniciado sesi├│n con credenciales de usuario est├índar', async function () {[39m
+       [33m    // Write code here that turns the phrase above into concrete actions[39m
+       [33m    return 'pending';[39m
+       [33m  });[39m
+       [33m[39m
+   [33m? Y el usuario est├í en la p├ígina de inventario[39m
+       [33mUndefined. Implement with the following snippet:[39m
+       [33m[39m
+       [33m  Given('el usuario est├í en la p├ígina de inventario', async function () {[39m
+       [33m    // Write code here that turns the phrase above into concrete actions[39m
+       [33m    return 'pending';[39m
+       [33m  });[39m
+       [33m[39m
+   [33m? Cuando el usuario agrega "Sauce Labs Backpack" al carrito[39m
+       [33mUndefined. Implement with the following snippet:[39m
+       [33m[39m
+       [33m  When('el usuario agrega {string} al carrito', async function (string) {[39m
+       [33m    // Write code here that turns the phrase above into concrete actions[39m
+       [33m    return 'pending';[39m
+       [33m  });[39m
+       [33m[39m
+   [33m? Y el usuario hace clic en el ├¡cono del carrito de compras[39m
+       [33mUndefined. Implement with the following snippet:[39m
+       [33m[39m
+       [33m  When('el usuario hace clic en el ├¡cono del carrito de compras', async function () {[39m
+       [33m    // Write code here that turns the phrase above into concrete actions[39m
+       [33m    return 'pending';[39m
+       [33m  });[39m
+       [33m[39m
+   [36m- Entonces el usuario deber├¡a estar en la p├ígina del carrito[39m # [90msrc\steps\cart.steps.ts:66[39m
+   [36m- Y el carrito deber├¡a contener 1 art├¡culo[39m # [90msrc\steps\cart.steps.ts:75[39m
+   [36m- Y el carrito deber├¡a mostrar "Sauce Labs Backpack"[39m # [90msrc\steps\cart.steps.ts:84[39m
+   [32mΓêÜ After[39m # [90msrc\hooks\hooks.ts:95[39m
+       Attachment (video/webm)
+
+3) Scenario: Completar el proceso de checkout exitosamente # [90msrc\features\checkout.feature:13[39m
+   [32mΓêÜ Before[39m # [90msrc\hooks\hooks.ts:75[39m
+   [33m? Dado que el usuario ha iniciado sesi├│n con credenciales de usuario est├índar[39m
+       [33mUndefined. Implement with the following snippet:[39m
+       [33m[39m
+       [33m  Given('que el usuario ha iniciado sesi├│n con credenciales de usuario est├índar', async function () {[39m
+       [33m    // Write code here that turns the phrase above into concrete actions[39m
+       [33m    return 'pending';[39m
+       [33m  });[39m
+       [33m[39m
+   [33m? Y el usuario ha agregado productos al carrito[39m
+       [33mUndefined. Implement with the following snippet:[39m
+       [33m[39m
+       [33m  Given('el usuario ha agregado productos al carrito', async function () {[39m
+       [33m    // Write code here that turns the phrase above into concrete actions[39m
+       [33m    return 'pending';[39m
+       [33m  });[39m
+       [33m[39m
+   [33m? Cuando el usuario navega a la p├ígina del carrito[39m
+       [33mUndefined. Implement with the following snippet:[39m
+       [33m[39m
+       [33m  When('el usuario navega a la p├ígina del carrito', async function () {[39m
+       [33m    // Write code here that turns the phrase above into concrete actions[39m
+       [33m    return 'pending';[39m
+       [33m  });[39m
+       [33m[39m
+   [36m- Y el usuario procede al checkout[39m # [90msrc\steps\checkout.steps.ts:21[39m
+   [36m- Y el usuario completa la informaci├│n de checkout:[39m # [90msrc\steps\checkout.steps.ts:27[39m
+       [36m| firstName  | John  |[39m
+       [36m| lastName   | Doe   |[39m
+       [36m| postalCode | 12345 |[39m
+   [36m- Y el usuario contin├║a al resumen del checkout[39m # [90msrc\steps\checkout.steps.ts:43[39m
+   [36m- Y el usuario completa el checkout[39m # [90msrc\steps\checkout.steps.ts:57[39m
+   [36m- Entonces la orden deber├¡a ser confirmada exitosamente[39m # [90msrc\steps\checkout.steps.ts:64[39m
+   [36m- Y un mensaje de confirmaci├│n deber├¡a ser mostrado[39m # [90msrc\steps\checkout.steps.ts:70[39m
+   [36m- Y el encabezado de confirmaci├│n deber├¡a contener "Thank you for your order"[39m # [90msrc\steps\checkout.steps.ts:76[39m
+   [32mΓêÜ After[39m # [90msrc\hooks\hooks.ts:95[39m
+       Attachment (video/webm)
+
+5 scenarios ([33m3 undefined[39m, [32m2 passed[39m)
+32 steps ([33m10 undefined[39m, [36m12 skipped[39m, [32m10 passed[39m)
+0m27.582s (executing steps: 1m43.541s)
