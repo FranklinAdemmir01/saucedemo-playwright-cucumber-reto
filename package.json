@@ -27,7 +27,7 @@
     "env:qa": "node scripts/set-environment.js qa",
     "env:prod": "node scripts/set-environment.js prod",
     "report": "node scripts/generate-report.js",
-    "test:report": "npm test && npm run report",
+    "test:report": "node scripts/run-tests-with-report.js",
     "clean": "rimraf reports/screenshots reports/videos reports/generated",
     "lint": "eslint src/ steps/ --ext .ts",
     "format": "prettier --write \"src/**/*.ts\" \"steps/**/*.ts\" \"src/features/**/*.feature\""

@@ -10,6 +10,7 @@ build/
 *.js
 *.js.map
 !cucumber.js
+!scripts/**/*.js
 !src/reports/config/*.js
 
 # Test outputs
