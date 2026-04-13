@@ -28,7 +28,6 @@ playwright-report/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
